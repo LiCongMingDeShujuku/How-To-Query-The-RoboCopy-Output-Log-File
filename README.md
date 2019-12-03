@@ -51,6 +51,7 @@ Here’s what the query will look like in most cases for RoboCopy log.
 ![#](images/01-How-To-Query-The-RoboCopy-Output-Log-File.png?raw=true "#")
 
 Once you click on the XML link output you’ll see the RoboCopy output file as usual. Just like you would if you clicked on the .log file from the OS.
+
 一旦你单击XML链接输出后，会像往常一样看到RoboCopy输出文件。就像你从操作系统中单击.log文件一样。
 
 
